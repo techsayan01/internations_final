@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+# app_internations:
+#   path: /register
+#   controller: App\Controller\Register\RegisterController::test
